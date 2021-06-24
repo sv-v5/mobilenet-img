@@ -3,7 +3,7 @@ Use a pretrained model to extend an image classifier and then predict examples u
 
 
 ## Train
-Drag-and-drop a folder named `training` with examples organized by labels in separate folders.
+Drag-and-drop a folder named `training` (included in this repo in [`data/`](./data)) with examples organized by labels in separate folders.
 ```shell
 ├── landscape
 │   ├── Beautiful-winter-thick-snow-trees-dusk_2560x1600.jpg
@@ -20,13 +20,17 @@ Drag-and-drop a folder named `training` with examples organized by labels in sep
 
 
 ## Evaluate
-Drag-and-drop a folder named `validation` with examples organized by labels in separate folders.
+Drag-and-drop a folder named `validation` (included in this repo in [`data/`](./data)) with examples organized by labels in separate folders.
 ```shell
 ├── landscape
 │   └── lxqt_landscape.jpg
 └── not-landscape
     └── brain-comp-chip.png
 ```
+
+
+## Play
+The MobileNet classifier app is hosted here.
 
 
 ## Develop
