@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36f27eb1026a7127f1ae0cf64c876892",
+    "revision": "5b5d1654ba0452a4c0b0827deaf28c30",
     "url": "/mobilenet-img/index.html"
   },
   {
-    "revision": "5e4e9e367559bdcc9110",
-    "url": "/mobilenet-img/static/css/main.f67bec75.chunk.css"
+    "revision": "4ec2068cf2e6c4b7ed59",
+    "url": "/mobilenet-img/static/css/main.1bdd7ab9.chunk.css"
   },
   {
     "revision": "76f6de029ebc4dbc96d1",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobilenet-img/static/js/2.024851f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e4e9e367559bdcc9110",
+    "revision": "4ec2068cf2e6c4b7ed59",
     "url": "/mobilenet-img/static/js/main.29ad72d3.chunk.js"
   },
   {
