@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mobilenet-img/static/css/main.f67bec75.chunk.css",
+    "main.js": "/mobilenet-img/static/js/main.29ad72d3.chunk.js",
+    "main.js.map": "/mobilenet-img/static/js/main.29ad72d3.chunk.js.map",
+    "runtime-main.js": "/mobilenet-img/static/js/runtime-main.01027b7f.js",
+    "runtime-main.js.map": "/mobilenet-img/static/js/runtime-main.01027b7f.js.map",
+    "static/js/2.024851f0.chunk.js": "/mobilenet-img/static/js/2.024851f0.chunk.js",
+    "static/js/2.024851f0.chunk.js.map": "/mobilenet-img/static/js/2.024851f0.chunk.js.map",
+    "index.html": "/mobilenet-img/index.html",
+    "precache-manifest.7038d1ec24ac0e1e6980a6c0677d0d4a.js": "/mobilenet-img/precache-manifest.7038d1ec24ac0e1e6980a6c0677d0d4a.js",
+    "service-worker.js": "/mobilenet-img/service-worker.js",
+    "static/css/main.f67bec75.chunk.css.map": "/mobilenet-img/static/css/main.f67bec75.chunk.css.map",
+    "static/js/2.024851f0.chunk.js.LICENSE.txt": "/mobilenet-img/static/js/2.024851f0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mobilenet-img/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01027b7f.js",
+    "static/js/2.024851f0.chunk.js",
+    "static/css/main.f67bec75.chunk.css",
+    "static/js/main.29ad72d3.chunk.js"
+  ]
+}
