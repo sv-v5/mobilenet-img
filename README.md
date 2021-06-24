@@ -31,7 +31,7 @@ Drag-and-drop a folder named `validation` (included in this repo in [`data/`](./
 
 ## Play
 The MobileNet classifier app is hosted here: https://sv-v5.github.io/mobilenet-img
-![screenshot](./img/predictions.png)
+[![screenshot](./img/predictions.png)](https://sv-v5.github.io/mobilenet-img)
 
 
 ## Develop
